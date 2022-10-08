@@ -1,5 +1,5 @@
 # awesome-dailytools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Some tools (softwares) we need ues in out daily life~
+Some tools (softwares) we need use in out daily life~
 
 ## Monitor Control
 > may for multiple diplay and desktop computer users...
