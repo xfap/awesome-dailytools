@@ -4,7 +4,7 @@ Some tools (softwares) we need use in our daily life~
 
 ## Monitor Control
 
-> may for multiple diplay and desktop computer users...
+> may for multiple display and desktop computer users...
 
 **windows**
 - [Monitorian](https://github.com/emoacht/Monitorian) A Windows desktop tool to adjust the brightness of multiple monitors with ease
